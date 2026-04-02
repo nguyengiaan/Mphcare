@@ -1,0 +1,6 @@
+@API.Mphcare_HostAddress = http://localhost:5239
+
+GET {{API.Mphcare_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
